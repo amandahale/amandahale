@@ -1,8 +1,6 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### <h5> Hi there </h5> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I'm Amanda, and I'm a developer and lead instructor for Actualize Coding Bootcamp based in Chicago. In my free time, you can catch me rollin around the city in my wheely boots.
-
-<iframe src="https://giphy.com/embed/t7coV1G4GH6YbriYmX" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/brunomars-skate-bruno-mars-anderson-paak-t7coV1G4GH6YbriYmX">via GIPHY</a></p>
 
 <!--
 **amandahale/amandahale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
