@@ -1,4 +1,5 @@
-### <h5> Hi there </h5> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there 
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I'm Amanda, and I'm a developer and lead instructor for Actualize Coding Bootcamp based in Chicago. In my free time, you can catch me rollin around the city in my wheely boots.
 
