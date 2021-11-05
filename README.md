@@ -1,6 +1,6 @@
 ### Hi there 
 
-I'm Amanda, and I'm a developer and lead instructor for Actualize Coding Bootcamp based in Chicago. In my free time, you can catch me rollin around the city in my wheely boots.
+I'm Amanda, and I'm a developer and lead instructor for Actualize Coding Bootcamp based in Chicago. In my free time, you can catch me rollin around the city in my wheely boots. 🛼
 
 <!--
 **amandahale/amandahale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
