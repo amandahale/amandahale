@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://scontent-ort2-2.xx.fbcdn.net/v/t1.6435-9/253849473_10159790446290365_530057636064555960_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=730e14&_nc_ohc=e9Vyzue9VKsAX-acc4A&_nc_ht=scontent-ort2-2.xx&oh=d1b7d140b9815627c288082ea2a02af1&oe=61ABB466" />
+<img src="https://github.com/amandahale/amandahale.github.io/blob/master/images/header.jpg?raw=true" />
 </p>
 
 <!--
